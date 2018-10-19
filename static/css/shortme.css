@@ -1,0 +1,18 @@
+.navbar-default .navbar-brand {
+    color: #FFFFFF;
+}
+
+.navbar-default {
+    background-color: #337ab7;
+}
+
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #FFFFFF;
+}
+
+.expandedURL {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}

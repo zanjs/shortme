@@ -1,7 +1,7 @@
 ![](logo.png)  
 ![](https://img.shields.io/badge/version-1.2.0-blue.svg)
 ![](https://img.shields.io/badge/LICENSE-AGPL-blue.svg)
-[![Build Status](https://travis-ci.org/andyxning/shortme.svg?branch=master)](https://travis-ci.org/andyxning/shortme)
+[![Build Status](https://travis-ci.org/andyxning/shortme.svg?branch=master)](https://travis-ci.org/andyxning/shortme) [![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/shortme.svg)](https://greenkeeper.io/)
 ### Introduction
 ----
 ShortMe is a url shortening service written in Golang.  
